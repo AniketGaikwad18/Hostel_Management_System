@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+backend/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Secrets
+.env
+*.env.local
+*.env.production
+
+# Database & Uploads
+*.db
+*.sqlite3
+hostelguard.db
+backend/hostelguard.db
+backend/uploads/
+uploads/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+.gemini/
+
+# Android build outputs
+.gradle/
+android_gateway/.gradle/
+android_gateway/build/
+android_gateway/app/build/
+*.apk
+*.aab
+
+# IDEs & Editor
+.idea/
+.vscode/
+*.iml
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log

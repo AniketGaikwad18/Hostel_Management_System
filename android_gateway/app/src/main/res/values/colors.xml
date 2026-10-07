@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_primary">#171A3A</color>
+    <color name="purple_accent">#6046A8</color>
+    <color name="purple_dark">#3E2B70</color>
+    <color name="oat_bg">#F3EBDD</color>
+    <color name="cream_card">#FAF7F0</color>
+    <color name="green_status">#258A60</color>
+    <color name="red_status">#D93636</color>
+    <color name="text_muted">#7A7570</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
